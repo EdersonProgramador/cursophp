@@ -75,6 +75,7 @@ O HTML (HyperText Markup Language) é uma linguagem de marcação utilizada para
 Ele funciona através de tags, que são interpretadas pelos navegadores para exibir os elementos na tela. Por exemplo, a tag <p> é usada para criar parágrafos, enquanto <img> insere imagens. Um arquivo HTML é salvo com a extensão .html e pode ser aberto diretamente em navegadores.
 
 
+<code>
 <!DOCTYPE html>
 <html>
  <head>
@@ -85,6 +86,7 @@ Ele funciona através de tags, que são interpretadas pelos navegadores para exi
    <p>Este é um exemplo de página HTML.</p>
  </body>
 </html>
+</code>
 
 Neste exemplo, o navegador exibirá um título principal e um parágrafo.
 
