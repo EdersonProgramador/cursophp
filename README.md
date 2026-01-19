@@ -47,7 +47,10 @@
 * MyCompiler - web
 * SublimeText 2
 * Visual Studio Code
+* Atom
+* Notepad2
 * Notepad++
+* Brackets
 * Bluefish
 * Vim
 * NetBeans
