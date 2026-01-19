@@ -73,3 +73,39 @@
 O HTML (HyperText Markup Language) é uma linguagem de marcação utilizada para estruturar e organizar o conteúdo de páginas web. Diferente de linguagens de programação, o HTML não cria algoritmos ou manipula dados, mas define a estrutura de elementos como textos, imagens, links, tabelas e formulários que compõem uma página.
 
 Ele funciona através de tags, que são interpretadas pelos navegadores para exibir os elementos na tela. Por exemplo, a tag <p> é usada para criar parágrafos, enquanto <img> insere imagens. Um arquivo HTML é salvo com a extensão .html e pode ser aberto diretamente em navegadores.
+
+
+<!DOCTYPE html>
+<html>
+ <head>
+   <title>Minha Página</title>
+ </head>
+ <body>
+   <h1>Bem-vindo ao meu site!</h1>
+   <p>Este é um exemplo de página HTML.</p>
+ </body>
+</html>
+
+Neste exemplo, o navegador exibirá um título principal e um parágrafo.
+
+Principais características do HTML
+
+Estruturação de conteúdo: Permite criar títulos, parágrafos, listas, tabelas, links, imagens e muito mais.
+
+Semântica: Com o HTML5, foram introduzidas tags como <header>, <footer> e <section>, que melhoram a acessibilidade e o SEO.
+
+Interatividade: Trabalha em conjunto com CSS (para estilização) e JavaScript (para interatividade).
+
+Aplicações do HTML
+
+O HTML é amplamente utilizado no desenvolvimento de sites, mas também é aplicado em:
+
+E-mails marketing: Criação de templates personalizados.
+
+Aplicativos híbridos: Desenvolvimento de apps móveis com tecnologias web.
+
+Jogos simples: Jogos baseados em navegador.
+
+Aplicativos desktop: Com frameworks como Electron.
+
+O HTML é essencial para qualquer desenvolvedor web, sendo a base para criar páginas funcionais e acessíveis.
