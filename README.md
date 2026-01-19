@@ -32,4 +32,5 @@
 
 ## Como o PHP funciona
 
-## 
+* O PHP é um software instalado no servidor.
+* Interpretado pelo Apache
