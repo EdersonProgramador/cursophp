@@ -20,4 +20,14 @@
 * GoDaddy
 * Cloudflare
 
+## Como um Servidor Funciona
+
+### Tipos de servidores web
+
+* Apache - php
+* * O Apache é o principal candidato dos servidores atuais
+* ISS (Internet Information Servicer)
+* Tomcat - javaweb
+* JBoss - javaweb
+
 ##
