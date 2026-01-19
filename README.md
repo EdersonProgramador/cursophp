@@ -68,4 +68,8 @@
 
 # HTML e CSS
 
+## O que é html?
 
+O HTML (HyperText Markup Language) é uma linguagem de marcação utilizada para estruturar e organizar o conteúdo de páginas web. Diferente de linguagens de programação, o HTML não cria algoritmos ou manipula dados, mas define a estrutura de elementos como textos, imagens, links, tabelas e formulários que compõem uma página.
+
+Ele funciona através de tags, que são interpretadas pelos navegadores para exibir os elementos na tela. Por exemplo, a tag <p> é usada para criar parágrafos, enquanto <img> insere imagens. Um arquivo HTML é salvo com a extensão .html e pode ser aberto diretamente em navegadores.
