@@ -2,11 +2,11 @@
 
 ## Introdução Geral
 
-#### Diferença entre pensamento de perto vs de longe.
-#### O poder do interrogatório elaborado.
-#### Repetição é rei, prática é deus.
-#### Não se testa na mente, se testa na prática.
-#### Pra aprender, precisamos dormir.
+* Diferença entre pensamento de perto vs de longe.
+* O poder do interrogatório elaborado.
+* Repetição é rei, prática é deus.
+* Não se testa na mente, se testa na prática.
+* Pra aprender, precisamos dormir.
 
 ## Como funciona um site
 
