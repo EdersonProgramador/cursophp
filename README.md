@@ -73,3 +73,10 @@
 O HTML (HyperText Markup Language) é uma linguagem de marcação utilizada para estruturar e organizar o conteúdo de páginas web. Diferente de linguagens de programação, o HTML não cria algoritmos ou manipula dados, mas define a estrutura de elementos como textos, imagens, links, tabelas e formulários que compõem uma página.
 
 Ele funciona através de tags, que são interpretadas pelos navegadores para exibir os elementos na tela. Por exemplo, a tag <p> é usada para criar parágrafos, enquanto <img> insere imagens. Um arquivo HTML é salvo com a extensão .html e pode ser aberto diretamente em navegadores.
+
+# Onde salvar e como abrir arquivos?
+
+🔹 “Onde salvar”: refere-se ao local em que os arquivos do código devem ser armazenados. Em cursos de programação, isso geralmente envolve explicar a estrutura de pastas, como salvar scripts PHP em diretórios corretos (por exemplo, dentro da pasta do servidor local como htdocs no XAMPP ou www no WAMP).
+
+🔹 “Como abrir”: trata da forma de executar ou visualizar esses arquivos. No caso do PHP, não basta abrir o arquivo diretamente no navegador; é preciso rodar em um servidor local (como Apache) e acessar via http://localhost/nomedoarquivo.php.
+
