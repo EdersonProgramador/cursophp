@@ -1,6 +1,6 @@
 # cursophp
 
-## Introdução Geral
+# Introdução Geral
 
 * Diferença entre pensamento de perto vs de longe.
 * O poder do interrogatório elaborado.
