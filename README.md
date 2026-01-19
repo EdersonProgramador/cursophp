@@ -9,3 +9,13 @@
 #### Pra aprender, precisamos dormir.
 
 ## Como funciona um site
+
+#### Domínio e Hospedagem
+* Registro br
+* Hostgator
+* Hostinger
+* Locaweb
+* Umbler
+* UOL Host
+* GoDaddy
+* Cloudflare
