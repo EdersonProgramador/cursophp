@@ -94,8 +94,8 @@ Ele funciona através de tags, que são interpretadas pelos navegadores para exi
 
 # Cabeçalho
 
-<>
 <html>
+    <code>
     <head>
         <title>Titulo da sua página</title>
         <link rel="stylesheet" href="">
@@ -104,5 +104,9 @@ Ele funciona através de tags, que são interpretadas pelos navegadores para exi
         <meta>
         <base href="" />
     </head>
+    </code>
 </html>
 </>
+
+<img width="309" height="163" alt="download" src="https://github.com/user-attachments/assets/c7380f8c-1baf-4de7-87f9-00b7a4e08cc8" />
+
