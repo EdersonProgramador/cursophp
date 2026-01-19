@@ -34,3 +34,5 @@
 
 * O PHP é um software instalado no servidor.
 * Interpretado pelo Apache
+<img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/d6ae5023-5a71-4b3a-afcb-25b3a7e99cf6" />
+
