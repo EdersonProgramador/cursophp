@@ -76,10 +76,6 @@ Ele funciona através de tags, que são interpretadas pelos navegadores para exi
 ![Uploading image.png…]()
 
 <pre><code>
-if (a &lt; b) {
-    console.log("A é menor que B");
-}
-</code></pre>
 <!DOCTYPE html>
 <html>
  <head>
@@ -90,7 +86,8 @@ if (a &lt; b) {
    <p>Este é um exemplo de página HTML.</p>
  </body>
 </html>
-"
+</code></pre>
+
 Neste exemplo, o navegador exibirá um título principal e um parágrafo.
 
 Principais características do HTML
