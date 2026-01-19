@@ -38,3 +38,8 @@
 
 ## Página Estática vs Dinâmica
 
+<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/c339689b-3da6-4486-9a05-58de9e34f793" />
+<br>
+<img width="262" height="190" alt="image" src="https://github.com/user-attachments/assets/8f60ce21-afd8-4155-b6e8-9429f30456bc" />
+
+##
