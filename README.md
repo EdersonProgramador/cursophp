@@ -94,15 +94,15 @@ Ele funciona através de tags, que são interpretadas pelos navegadores para exi
 
 # Cabeçalho
 
-<pre>
-    <html>
-        <head>
-            <title>Titulo da sua página</title>
-            <link rel="stylesheet" href="">
-            <script></script>
-            <style></style>
-            <meta>
-            <base href="" />
-        </head>
-    </html>
-</pre>
+<code>
+<html>
+    <head>
+        <title>Titulo da sua página</title>
+        <link rel="stylesheet" href="">
+        <script></script>
+        <style></style>
+        <meta>
+        <base href="" />
+    </head>
+</html>
+</code>
