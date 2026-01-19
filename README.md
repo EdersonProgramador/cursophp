@@ -82,13 +82,25 @@ Ele funciona através de tags, que são interpretadas pelos navegadores para exi
 
 ## Estrutura de uma Página Web
 ### O que o conteúdo da página aborda
-🔹 HTML como base: a aula mostra que toda página web começa com um documento HTML, que define a estrutura e os elementos principais.
+🔹 <b>HTML</b> como base: a aula mostra que toda página web começa com um documento HTML, que define a estrutura e os elementos principais.
 
-🔹 Cabeçalho (head): parte onde ficam informações que não aparecem diretamente para o usuário, como título da aba, metadados, links para arquivos CSS e scripts.
+🔹 <b>Cabeçalho (head):</b> parte onde ficam informações que não aparecem diretamente para o usuário, como título da aba, metadados, links para arquivos CSS e scripts.
 
-🔹 Corpo (body): área visível da página, onde são colocados textos, imagens, links, botões e outros elementos que o usuário interage.
+🔹 <b>Corpo (body):</b> área visível da página, onde são colocados textos, imagens, links, botões e outros elementos que o usuário interage.
 
 🔹 Tags fundamentais: explicação sobre <html>, <head>, <title>, <body> e como elas se relacionam para formar a base de qualquer página.
 
 🔹 Organização lógica: a aula enfatiza que entender essa estrutura é essencial para evoluir no desenvolvimento web, pois é a partir dela que se adicionam estilos (CSS) e comportamentos (JavaScript).
 
+# Cabeçalho
+
+<html>
+    <head>
+        <title>Titulo da sua página</title>
+        <link rel="stylesheet" href="">
+        <script></script>
+        <style></style>
+        <meta>
+        <base href="" />
+    </head>
+</html>
