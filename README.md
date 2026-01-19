@@ -94,7 +94,6 @@ Ele funciona através de tags, que são interpretadas pelos navegadores para exi
 
 # Cabeçalho
 
-<code>
 <html>
     <head>
         <title>Titulo da sua página</title>
@@ -105,4 +104,3 @@ Ele funciona através de tags, que são interpretadas pelos navegadores para exi
         <base href="" />
     </head>
 </html>
-</code>
