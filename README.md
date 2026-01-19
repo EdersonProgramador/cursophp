@@ -36,4 +36,5 @@
 * Interpretado pelo Apache
 <img width="280" height="229" alt="image" src="https://github.com/user-attachments/assets/8faa8a2d-248c-44ea-a09e-5dea350aceba" />
 
+## Página Estática vs Dinâmica
 
