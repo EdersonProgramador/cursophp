@@ -10,7 +10,7 @@
 
 ## Como funciona um site
 
-#### Domínio e Hospedagem
+#### Domínio e Subdomínio
 * Registro br
 * Hostgator
 * Hostinger
@@ -19,3 +19,5 @@
 * UOL Host
 * GoDaddy
 * Cloudflare
+
+##
