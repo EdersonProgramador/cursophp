@@ -44,7 +44,7 @@
 
 ## Editores de Código
 
-*MyCompiler
+* MyCompiler
 * SublimeText 2
 * Visual Studio Code
 * Notepad++
