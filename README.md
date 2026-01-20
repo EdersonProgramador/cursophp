@@ -106,3 +106,29 @@ Ele funciona através de tags, que são interpretadas pelos navegadores para exi
 
 <img width="309" height="163" alt="download" src="https://github.com/user-attachments/assets/c7380f8c-1baf-4de7-87f9-00b7a4e08cc8" />
 
+# Formatações de texto
+
+<pre>
+    <html>
+    <header><script type="text/javascript" src="/___vscode_livepreview_injected_script"></script>
+        <title>Titulo da sua página</title>
+    </header>
+    <body>
+        Esté é um <b>negrito</b><br>
+        Esé um <strong>negrito</strong>
+        que assim vai soar <br><br>
+        <sub></sub>
+        <u></u>
+        <sup></sup>
+        <strike></strike>
+    </body>
+    <div>
+        Este é um <strong>peema</strong><br><br>
+        que <i>assim</i> vai soar. <br><br>
+
+        Se <u>eu</u> <sup>2</sup> <strike>queser</strike>
+        fazer <br>
+        ele vai <small>ficar</small>
+    </div>
+</html>
+</pre>
