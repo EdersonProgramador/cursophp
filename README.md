@@ -199,3 +199,43 @@ Ele funciona através de tags, que são interpretadas pelos navegadores para exi
         </body>
     </html>
 </pre>
+
+
+# Tabela
+
+<html>
+    <head>
+        <title>Cotação</title>
+    </head>
+    <body>
+        <h2>Tabela de Cotação de Preços</h2>
+        <table width="500" border="1">
+            <tr bgcolor="#999999">
+                <td>Imagem</td>
+                <td>Produto</td>
+                <td width="60" align="center">Qt.</td>
+                <td>Descrição</td>
+                <td>Preço</td>
+            </tr>
+            <tr>
+                <td><img src="http://www.google.com.br/google.jpg" width="50" alt=""></td>
+                <td>Pedra</td>
+                <td>2000</td>
+                <td>Pedra do tipo.....</td>
+                <td width="150">100</td>
+            </tr>
+            <tr>
+                <td>Imagem</td>
+                <td>Papel</td>
+                <td>2</td>
+                <td>Papel Colche A4...</td>
+                <td width="150">100</td>
+            </tr>
+            <tr bgcolor="#999999">
+                <td colspan="4" align="left">Subtotal</td>
+                <td>250</td>
+            </tr>
+        </table>
+    </body>
+</html>
+
