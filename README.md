@@ -132,3 +132,70 @@ Ele funciona através de tags, que são interpretadas pelos navegadores para exi
     </div>
 </html>
 </pre>
+
+# Listas não ordenadas
+<pre>
+    <html>
+        <head>
+            <title>Titulo da sua página</title>
+        </head>
+        <body>
+            Ingredientes do nosso bolo:
+            <ul style="list-style-type:circle, square, none">
+                <li>Trigo</li>
+                <li>Água</li>
+                <li>Sal</li>
+                <li>Fermento</li>
+                <li>Corante</li>
+                <li>Massa</li>
+            </ul>
+        </body>
+    </html>
+</pre>
+
+# listas ordenadas
+
+<pre>
+    <html>
+        <head>
+            <title>Página de teste</title>
+        </head>
+        <body>
+            <ol type="1, A, a, I, i">
+                <li>Jogar a massa</li>
+                <li>Mexer</li>
+                <li>Esperar</li>
+                <li>Comer</li>
+            </ol>
+        </body>
+    </html>
+</pre>
+
+# Imagens
+
+<pre>
+    <html>
+        <head>
+            <title>Página de teste</title>
+        </head>
+        <body>
+            <img src="../" alt="">
+            <img src="http://www.google.com.br/google.jpg" width="200" height="" alt="Google" title="Este é um titulo" />
+        </body>
+    </html>
+</pre>
+
+# Links
+
+<pre>
+    <html>
+        <head>
+            <title>Página de Teste</title>
+        </head>
+        <body>
+            <a href="www.google.com" target="_blank">Abrir Google</a>
+            <a href="pagina.html">Clique aqui para abrir essa página</a>
+            <a href="documento.pdf" download>Baixar Documento</a>
+        </body>
+    </html>
+</pre>
