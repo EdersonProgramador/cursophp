@@ -286,28 +286,29 @@ CSS (Cascading Style Sheets) é uma linguagem de estilo usada para descrever a a
 O que é CSS?
 CSS, ou Folhas de Estilo em Cascata, é uma linguagem que permite estilizar elementos em uma página web. Com CSS, você pode definir propriedades como cores, tamanhos, fontes, espaçamentos, posicionamentos e muito mais. A principal função do CSS é separar o conteúdo (HTML) da sua apresentação visual, tornando o código mais organizado e fácil de manter. 
 W3School
-+1
+
 Como funciona o CSS?
 O CSS funciona através de regras de estilo que são aplicadas a elementos HTML. Cada regra CSS consiste em um seletor e uma declaração. O seletor identifica quais elementos HTML a regra se aplica, enquanto a declaração define as propriedades a serem estilizadas. Por exemplo:
 h1 {
 color: crimson;
 text-align: center;
 }
-Neste exemplo, o seletor h1 aplica as propriedades de cor e alinhamento ao elemento <h1>. 
+
+Neste exemplo, o seletor h1 aplica as propriedades de cor e alinhamento ao elemento
+
 menzzo.com.br
+
 Métodos de Aplicação do CSS
+
 Existem três maneiras principais de aplicar CSS a um documento HTML:
 CSS Externo: O método mais recomendado, onde o CSS é escrito em um arquivo separado e vinculado ao HTML. Isso permite reutilizar o mesmo estilo em várias páginas e facilita a manutenção do código.
 CSS Interno: O CSS é escrito dentro de uma tag <style> no cabeçalho do documento HTML. Este método é útil para estilos que são específicos para uma única página.
-CSS Inline: O CSS é aplicado diretamente a um elemento HTML usando o atributo style. Este método é menos comum e geralmente não é recomendado, pois pode tornar o código mais difícil de ler e manter. 
-2
-
+CSS Inline: O CSS é aplicado diretamente a um elemento HTML usando o atributo style. Este método é menos comum e geralmente não é recomendado, pois pode tornar o código mais difícil de ler e manter.
 
 2 Fontes
 Importância do CSS
 O CSS é essencial para o desenvolvimento web moderno, pois permite criar sites bonitos, responsivos e fáceis de usar. Sem CSS, as páginas web seriam apenas texto simples, tornando a experiência do usuário muito menos atraente. O uso de CSS melhora a estética e a funcionalidade dos sites, permitindo que os desenvolvedores criem layouts complexos e interativos. 
 Hostinger
-+1
 
 Para mais informações e tutoriais sobre CSS, você pode visitar W3Schools ou MDN Web Docs
 
